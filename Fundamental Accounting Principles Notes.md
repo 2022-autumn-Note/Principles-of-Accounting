@@ -8,7 +8,7 @@ Based on Fundamental Accounting Principles $23^{rd}$ Edition & ZhangKuo Accounti
 
 Identifying -> Recording -> Communicating
 
-information system 
+information system @
 
 #### 1.2 Users of Accounting Information
 
